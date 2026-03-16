@@ -1,3 +1,6 @@
+//Caio Martins Pertence
+//Matrícula: 1261935273
+
 import java.util.Scanner;
 
 public class MédiaTrêsNotas {
